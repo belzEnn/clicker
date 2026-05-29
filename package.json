@@ -1,0 +1,23 @@
+{
+  "name": "clicker",
+  "version": "1.0.0",
+  "description": "clicker",
+  "homepage": "https://github.com/belzEnn/clicker#readme",
+  "bugs": {
+    "url": "https://github.com/belzEnn/clicker/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/belzEnn/clicker.git"
+  },
+  "license": "ISC",
+  "author": "vivid",
+  "type": "commonjs",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "tailwindcss": "^4.3.0"
+  }
+}
